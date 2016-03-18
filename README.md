@@ -6,7 +6,7 @@
 
 ### 加入我们？！
 
-简历投至：[wubingjie@gf.com.cn](mailto:wubingjie@gf.com.cn)
+简历请投至：[wubingjie@gf.com.cn](mailto:wubingjie@gf.com.cn)
 
 ### 为什么应该考虑加入广发证券IT团队？
 
@@ -65,6 +65,8 @@
  - “互联网+”的工作经验 — 互联网技术+金融专业服务 的真正结合
  
 ### 我们招聘以下岗位技术大牛
+
+简历请投至：[wubingjie@gf.com.cn](mailto:wubingjie@gf.com.cn)
 
 __------Web前端开发工程师------__
 
