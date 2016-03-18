@@ -18,7 +18,7 @@
    懂算法、感兴趣投资？高频交易、策略交易就是你的菜 - 有 机会在这里成长为中国逐渐涌现的“宽客”(Quant)群体一员。
 
 ### 为什么喜欢技术的您在我们这里大有用武之地？
- - AngularJS/Node.js/Node-webkit
+ - AngularJS/React/Node.js/Node-webkit/Electron/IONIC
  
    我们可能是金融业甚至互联网界最早采用这些技术开发最复杂应用的团队。
 
@@ -34,6 +34,6 @@
  
    我们有证券界最好的移动电商app、手机交易终端、理财应用。
 
- - Go/Java/CoffeeScript/Scala
+ - Go/Java/CoffeeScript/ES6+/Scala
  
    编程高手福音 - polyglot programming 混合编程是我们团队的标准套路，鼓励学习新语言。
